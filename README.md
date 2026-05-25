@@ -38,12 +38,3 @@ Projetos, estudos e ferramentas compartilhadas com a comunidade.
 - GitHub: https://github.com/caamacedo
 - Email: camila.macedomendes@outlook.com
 
----
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caamacedo&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caamacedo&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
